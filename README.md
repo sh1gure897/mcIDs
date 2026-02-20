@@ -200,6 +200,37 @@ max_rate = 20
 
 ---
 
+---
+
+## ☕ Support This Project / このプロジェクトを支援
+
+If this tool helped you, consider supporting the development.  
+このツールが役に立ったら開発支援してくれると嬉しいです。
+
+### 🪙 TON (Toncoin)
+Address : `UQAorT39lErq00YQTy0tvXeASMF1AmoktvbLlWa2p7iA9Qlc`
+
+Network : TON
+
+Wallet  : Tonkeeper / TON Space / Telegram Wallet
+
+### 💡 Why donate?
+
+Your support helps:
+
+- ⚡ Continuous performance improvements  
+- 🧠 Smarter search logic  
+- 🛠 New features & maintenance  
+- 🌍 Open-source development  
+
+開発のモチベになります 🙏
+
+---
+
+### ⭐ Star the repo if you like it!
+
+Donations are optional — a **GitHub Star** also helps a lot!
+
 ## ライセンス
 
 MIT
