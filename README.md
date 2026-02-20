@@ -119,7 +119,7 @@ MIT
 
 # Japanese
 
-## これは何？
+## What is this?
 
 利用可能な Minecraft ID を高速で探索し続ける 
 ヘッドレス型の非同期エンジンです。
